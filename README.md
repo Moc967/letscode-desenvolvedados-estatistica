@@ -10,10 +10,10 @@
 
 ---
 
-Este curso esta estruturado em dois módulos compostos dos seguintes tópicos gerais:
+Este curso esta estruturado em dois módulos, compostos dos seguintes tópicos gerais:
 
 - Estatistica Básica e Probabilidade
-- Introdução a Machine Learning e princípios básicos
+- Introdução a Machine Learning e seus princípios básicos
 
 ---
 
